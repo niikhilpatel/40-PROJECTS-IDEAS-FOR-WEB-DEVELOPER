@@ -10,3 +10,5 @@
 <br> 8. Ecommerce Website
 <br> 9. Landing Page
 <br> 10. Password Generator
+<br> 11. Tic Tac Toe Game
+<br> 12. Link Shortener Website
